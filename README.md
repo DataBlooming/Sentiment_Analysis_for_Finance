@@ -28,8 +28,8 @@ This project applies FinBERT to the latest news headlines about NVIDIA to gauge 
 
 /Sentiment_Analysis_for_Finance <br>
 │ <br>
-├── Tesla_Tweet_Sentiment_Analysis <br>
-└── Nvidia_News_Sentiment_Analysis <br>
+├── Tesla_Tweet_Sentiment_Analysis.ipynb <br>
+└── Nvidia_News_Sentiment_Analysis.ipynb <br>
 
 ## Requirements
 
